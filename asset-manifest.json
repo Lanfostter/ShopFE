@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ShopFE/static/css/main.073c9b0a.css",
+    "main.js": "/ShopFE/static/js/main.cbc7e8aa.js",
+    "static/js/787.23170c61.chunk.js": "/ShopFE/static/js/787.23170c61.chunk.js",
+    "static/media/logo.svg": "/ShopFE/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ShopFE/index.html",
+    "main.073c9b0a.css.map": "/ShopFE/static/css/main.073c9b0a.css.map",
+    "main.cbc7e8aa.js.map": "/ShopFE/static/js/main.cbc7e8aa.js.map",
+    "787.23170c61.chunk.js.map": "/ShopFE/static/js/787.23170c61.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.cbc7e8aa.js"
+  ]
+}
