@@ -15,7 +15,7 @@ export function AddUser() {
     const addNew = async () => {
         var config = {
             method: 'POST',
-            url: "http://localhost:2316/ShopClothes/api/add/user",
+            url: "http://192.168.216.1:3306/ShopClothes/api/add/user",
             headers: {
                 'Content-Type': 'application/json'
             },
